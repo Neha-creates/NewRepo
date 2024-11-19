@@ -1,4 +1,4 @@
-<h3>This repository contains two code files</h3>
+<h2>This repository contains two code files</h2>
 <p>Step to access this repository in your local machine</p>
 <ul><li>Click on code in green box</li>
 <li>Copy the url</li>
